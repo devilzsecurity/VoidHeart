@@ -12,6 +12,9 @@ blocked execution of:
 3.unlink syscall — blocks deleting/removing files
 
 4.unlinkat syscall — blocks deleting files relative to a directory file descriptor
+also it can hide from lsmod 
+
+
 
 Maded for fun :) 
 
