@@ -14,3 +14,7 @@ blocked execution of:
 4.unlinkat syscall — blocks deleting files relative to a directory file descriptor
 
 Maded for fun :) 
+
+
+SS:
+        ![image](https://github.com/user-attachments/assets/bb454d8f-27ed-422a-b805-6fa40f3eb931)
